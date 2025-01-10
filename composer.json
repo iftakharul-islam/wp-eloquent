@@ -23,5 +23,7 @@
       "psr-4" : {
         "WeDevs\\ORM\\": "src/"
       }
-    }
+    },
+    "minimum-stability": "dev"
+
 }
